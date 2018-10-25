@@ -11,7 +11,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author settings
 author: LOLLAPALOOZA姜小白 # add your name
 author-pic: adam-face.jpg
-about-author: 我是姜小白. 金融PHD，大咖的自我修养，每天提供高端订阅，网罗天下时事资讯，不出门便知天下事，为您打开一扇世界之窗。欢迎订阅留言！
+wechat: wechat.jpg
+about-author: 我是姜小白. 金融PHD，大咖的自我修养--每天提供高端资讯，网罗天下大事，为您打开一扇世界之窗。微信扫描二维码，每天讯息早知道！欢迎订阅留言！
 
 # Contact links
 email: # Add your Email address
