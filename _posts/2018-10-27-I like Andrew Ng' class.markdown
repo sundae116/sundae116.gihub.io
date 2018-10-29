@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Standford Andrew Ng，吴恩达老师机器学习公开课与笔记(Material)！
+title:  Standford Andrew Ng，吴恩达老师机器学习公开课与笔记大合集！(Material)
 date:   2018-10-27 22:07:20 +0300
 description: # Add post description (optional)
 img: post-8.jpg # Add image post (optional)
